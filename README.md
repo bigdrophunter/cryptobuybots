@@ -23,17 +23,58 @@ How to use: go to [cryptobuybots.com](https://cryptobuybots.com). Nothing to ins
 
 Built and maintained by one person.
 
+[![Live Feed and Dashboard](assets/screenshots/live-dashboard.png)](https://cryptobuybots.com/live)
+
 <br />
 
 ## Where to look
 
-| Page | What you get |
-|------|--------------|
-| [Live Feed](https://cryptobuybots.com/live) | Real-time stream of every alert (whales, pumps, dumps, liquidations, reports) with filters and a side dashboard of market metrics |
-| [Crypto Prices](https://cryptobuybots.com/crypto-prices) | Top 200 coins by market cap, with an individual page for each one: live chart, stats, description, FAQ |
-| [Galaxy](https://cryptobuybots.com/galaxy-top-crypto) | Visual map of the crypto market. One glance to see what's pumping and what's dumping |
-| [Learn](https://cryptobuybots.com/learn) | Guides on the site, alerts, on-chain data, futures, tools. Plain language, no filler |
-| [Glossary](https://cryptobuybots.com/glossary) | 82 crypto trading terms explained without buzzwords |
+### Live Feed and Dashboard
+
+Real-time stream of every alert (whales, pumps, dumps, liquidations, reports) with filters and a side dashboard of market metrics: long/short ratio, BTC and ETH dominance, fear and greed index, open interest, ETF balances and more.
+
+[Open live feed →](https://cryptobuybots.com/live)
+
+<br />
+
+### Galaxy
+
+Visual map of the crypto market. One glance to see what's pumping and what's dumping across the top 100 or top 200 coins. Filter by timeframe (1h, 24h, 7d).
+
+[![Galaxy view](assets/screenshots/galaxy.png)](https://cryptobuybots.com/galaxy-top-crypto)
+
+[Open galaxy →](https://cryptobuybots.com/galaxy-top-crypto)
+
+<br />
+
+### Crypto Prices
+
+Top 200 coins by market cap with sortable rankings, live prices, 1h / 24h / 7d changes, market cap and volume. Each coin has its own page with a live chart, full stats, ATH/ATL, description and FAQ.
+
+[![Crypto prices](assets/screenshots/crypto-prices.png)](https://cryptobuybots.com/crypto-prices)
+[![Coin page example](assets/screenshots/coin-page.png)](https://cryptobuybots.com/bitcoin-price-today)
+
+[Open prices →](https://cryptobuybots.com/crypto-prices)
+
+<br />
+
+### Learn
+
+Guides on the site, alerts, on-chain data, futures and tools. Plain language, no filler.
+
+[![Learn](assets/screenshots/learn.png)](https://cryptobuybots.com/learn)
+
+[Open learn →](https://cryptobuybots.com/learn)
+
+<br />
+
+### Glossary
+
+82 crypto trading terms explained without buzzwords. Search, filter by category, jump by letter.
+
+[![Glossary](assets/screenshots/glossary.png)](https://cryptobuybots.com/glossary)
+
+[Open glossary →](https://cryptobuybots.com/glossary)
 
 <br />
 
